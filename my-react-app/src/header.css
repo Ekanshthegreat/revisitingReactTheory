@@ -1,0 +1,25 @@
+.mainContainer{
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    color: white;
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+  }
+
+.mainContainer > div{
+    padding-left: 9em;
+    padding-top: 2em;
+    ;
+}
+
+.footerdiv{
+    bottom: 0px;
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 100vw;
+    height: 100px;
+    position: absolute;
+}

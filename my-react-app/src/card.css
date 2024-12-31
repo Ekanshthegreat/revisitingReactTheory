@@ -1,0 +1,12 @@
+.cardcontainer{
+    
+    padding: 0px;
+    padding-left: 5px;
+    margin: 0px;
+    width: 5em;
+    text-align: center;
+    
+    border-radius: 2em;
+    color: wheat;
+}
+

@@ -1,9 +1,11 @@
+import LandingPage from './landingPage.js'
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 
 function App() {
   return (
     <div className="App">
-      <h1>My React App</h1>
+      <LandingPage/>
     </div>
   );
 }

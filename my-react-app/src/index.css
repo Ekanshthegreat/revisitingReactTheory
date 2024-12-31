@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.cardcontainer{
+  display: flex;
+  
+}
+
+.cardsContainer{
+  display: flex;
+  flex-direction: row;
+  padding-top: 10em;
+  padding-left: 7em;
+  gap: 50px;
+  
+}
+
+
+
+
+
